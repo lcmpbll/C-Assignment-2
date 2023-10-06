@@ -8,7 +8,7 @@
 # Sources:          None
 #******************************************************************************/
 #include <stdio.h>
-//constant
+
 
 int main(void) {
   double currentRadon;
