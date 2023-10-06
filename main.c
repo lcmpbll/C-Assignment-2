@@ -3,7 +3,7 @@
 # Lab:              Assignment #2
 # Date:             October 5th, 2023
 # Description:      This program asks the user for their current radon level and uses the half life of radon to return their radon levels in 4, 8, and 16 days.
-# Input:            integer number
+# Input:            double number
 # Output:           double number, double number, double number
 # Sources:          None
 #******************************************************************************/
